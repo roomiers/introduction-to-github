@@ -94,7 +94,7 @@ Creating a branch allows you to edit to your project without changing the `main`
 
 **What is a commit?**: A [commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) is a set of changes to the files and folders in your project. A commit exists in a branch.
 
-### :keyboard: Activity: Your first commit
+### :keyboard: Activity: Your first commit-
 
 The following steps will guide you through the process of committing a change on GitHub. Committing a change requires first adding a new file to your new branch. 
 
