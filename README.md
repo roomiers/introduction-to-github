@@ -131,7 +131,7 @@ The following steps will guide you through the process of committing a change on
 
 _Nice work making that commit :sparkles:_
 
-Now that you’ve created a commit, it’s time to share your proposed change through a pull request!
+Now that you’ve created a commit, it’s time to share your proposed change through a pull request!!
 
 **What is a pull request?**: Collaboration happens on a pull request. The pull request shows the changes in your branch to other people. This pull request is going to keep the changes you just made on your branch and propose applying them to the `main` branch.
 <br>:tv: [Video: Introduction to pull requests](https://youtu.be/kJr-PIfLDl4)
