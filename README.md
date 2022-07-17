@@ -66,7 +66,7 @@ On additional branches, you can make edits without impacting the `main` version.
 
 **What is a profile README?**: A [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page.
 
-### :keyboard: Activity: Your first branch
+### :keyboard: Activity: Your first branch:
 
 1. Open a new browser tab, and navigate to this same repository. Then, work on the steps in your second tab while you read the instructions in this tab.
 2. Navigate to the **Code** tab.
